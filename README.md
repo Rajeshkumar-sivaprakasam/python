@@ -1,1 +1,1 @@
-# infothamizha
+Sample Python projects
